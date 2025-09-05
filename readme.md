@@ -2,7 +2,7 @@
 
 - [Live]()
 
-- [code]()
+- [code](https://github.com/CAP10D/random_password_generator.git)
 
 A sleek, minimal, and accessible password generator built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
 It generates strong passwords on demand and lets you copy them with one click—no libraries, no fuss.
