@@ -1,6 +1,6 @@
 # 🔐 Random Password Generator
 
-- [Live]()
+- [Live](https://random-password-generator-beta-rouge.vercel.app/)
 
 - [code](https://github.com/CAP10D/random_password_generator.git)
 
